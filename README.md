@@ -41,10 +41,12 @@ The goal of this project is to extract actionable insights from sales data of a 
 ## 📈 Sample Visualizations
 
 ### 🔹 Top 10 States by Sales
-![Bar Chart](assets/top_10_states.png)
+![{A03B839B-28A9-4D1A-B2CF-04D3B58C9109}](https://github.com/user-attachments/assets/83accd81-5739-423d-9077-ec89372ae6bd)
 
-### 🔹 Monthly Sales Trend
-![Monthly Trend](assets/monthly_sales.png)
+
+### 🔹 Yearly Sales Trend
+![{F2860A57-380D-44F5-AF84-4E741AE0C4F3}](https://github.com/user-attachments/assets/1444ec3d-1e59-4229-b1b8-402251bb5a63)
+
 
 ---
 
@@ -53,15 +55,3 @@ The goal of this project is to extract actionable insights from sales data of a 
 - The **Consumer** segment generates the most revenue.
 - **California** and **New York** are top-performing states in sales.
 - Sales peak in **November and December**, suggesting strong year-end performance.
-- There are regional and category-level trends that can be leveraged for business strategy.
-
----
-
-## 📁 File Structure
-
-```bash
-📦 Superstore-Sales-Analysis
-├── SuperstoreSalesAnalysis.ipynb   # Jupyter Notebook with full EDA
-├── Cleaned_Superstore_Data.xlsx    # (Optional) Cleaned dataset for Excel dashboard
-├── README.md
-└── assets/                         # Folder for chart images/screenshots (optional)
